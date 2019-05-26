@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2103" started-at="2019-05-26T05:40:19Z" finished-at="2019-05-26T05:40:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2103" started-at="2019-05-26T05:40:19Z" finished-at="2019-05-26T05:40:21Z">
+      <class name="com.RestAssured.Auth.Premitive_Auth">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.RestAssured.Auth.Premitive_Auth@2b98378d]" name="Setup" is-config="true" duration-ms="82" started-at="2019-05-26T05:40:19Z" finished-at="2019-05-26T05:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Authetication()[pri:0, instance:com.RestAssured.Auth.Premitive_Auth@2b98378d]" name="Authetication" duration-ms="1972" started-at="2019-05-26T05:40:19Z" finished-at="2019-05-26T05:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Authetication -->
+        <test-method status="PASS" signature="CheckResponsebody()[pri:0, instance:com.RestAssured.Auth.Premitive_Auth@2b98378d]" name="CheckResponsebody" duration-ms="19" started-at="2019-05-26T05:40:21Z" depends-on-methods="com.RestAssured.Auth.Premitive_Auth.Authetication" finished-at="2019-05-26T05:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckResponsebody -->
+      </class> <!-- com.RestAssured.Auth.Premitive_Auth -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

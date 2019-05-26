@@ -1,0 +1,249 @@
+2019-05-25 11:34:09 INFO  EmloyeeRestApi:17 - ***************Starting TC01************
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:67 - ************Checking Content Type**********
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:70 - The Content Type is text/html; charset=UTF-8
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:87 - ************Checking Response header content**********
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:90 - The Response header is gzip
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:96 - ************Checking Response header Content Length**********
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:98 - The Response header is 762
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:36 - ************Checking status code**********
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:38 - The Status Code is 200
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:29 - The Headers are Server=nginx/1.14.1
+Date=Sat, 25 May 2019 10:36:35 GMT
+Content-Type=text/html; charset=UTF-8
+Content-Length=762
+Connection=keep-alive
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Referrer-Policy=
+X-Server-Cache=true
+X-Proxy-Cache=MISS
+Set-Cookie=PHPSESSID=jtnfgdgc4t8qin5j8fhue8dlh3; path=/
+Vary=Accept-Encoding
+Content-Encoding=gzip
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:30 - The Response Body is [{"id":"10663","employee_name":"Anton2","employee_salary":"2000","employee_age":"20","profile_image":""},{"id":"10665","employee_name":"RaviSankarUpdated","employee_salary":"150000","employee_age":"23","profile_image":""},{"id":"10666","employee_name":"Raa","employee_salary":"526000","employee_age":"33","profile_image":""},{"id":"10667","employee_name":"Purna","employee_salary":"51","employee_age":"23","profile_image":""},{"id":"10670","employee_name":"EMP1","employee_salary":"25000","employee_age":"25","profile_image":""},{"id":"10676","employee_name":"RaviSankar","employee_salary":"50000","employee_age":"23","profile_image":""},{"id":"10677","employee_name":"Nagarajan Palavesam","employee_salary":"50000","employee_age":"27","profile_image":""},{"id":"10680","employee_name":"Pattanayak","employee_salary":"124543","employee_age":"22","profile_image":""},{"id":"10682","employee_name":"Anton","employee_salary":"4800","employee_age":"35","profile_image":""},{"id":"10683","employee_name":"Vadim","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10684","employee_name":"Ruslan","employee_salary":"3454","employee_age":"18","profile_image":""},{"id":"10685","employee_name":"Anton77","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10686","employee_name":"Anton78","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10687","employee_name":"Anton71","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10688","employee_name":"rahul","employee_salary":"6000","employee_age":"56","profile_image":""},{"id":"10689","employee_name":"Anton33","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10691","employee_name":"cxascac","employee_salary":"3333","employee_age":"33","profile_image":""},{"id":"10692","employee_name":"Anton355","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10693","employee_name":"Anton356","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10694","employee_name":"George","employee_salary":"22033","employee_age":"40","profile_image":""},{"id":"10695","employee_name":"testqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10697","employee_name":"tesdddtqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10698","employee_name":"Amit Negi111","employee_salary":"123456","employee_age":"44","profile_image":""},{"id":"10701","employee_name":"Anton352","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10704","employee_name":"Anton3577","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10717","employee_name":"Mat1","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10718","employee_name":"Andrey1","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10721","employee_name":"Andrey2","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10722","employee_name":"Andrey3","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10723","employee_name":"Andrey55","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10724","employee_name":"Andrey5666","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10738","employee_name":"Andrey56633","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10739","employee_name":"Andrey566333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10740","employee_name":"Andrey561333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10741","employee_name":"Mat21","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10742","employee_name":"Slava123","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10743","employee_name":"Andrey56123333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10744","employee_name":"Mat2431","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10745","employee_name":"Slava12343","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10747","employee_name":"Andrey56123f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10748","employee_name":"Fahriansyah","employee_salary":"1200000","employee_age":"18","profile_image":""},{"id":"10750","employee_name":"daniyal","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10751","employee_name":"PerfTestJmeter","employee_salary":"1123","employee_age":"28","profile_image":""},{"id":"10752","employee_name":"test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10768","employee_name":"Andrey5612ff3f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10772","employee_name":"And","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10773","employee_name":"Ma","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10774","employee_name":"Svy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10780","employee_name":"Andw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10781","employee_name":"Mar","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10782","employee_name":"Svrwy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10788","employee_name":"Anfdw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10789","employee_name":"Marsffd","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10790","employee_name":"Svrwsdfy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10799","employee_name":"testhjsj","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10818","employee_name":"Konstantin","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10819","employee_name":"Mark","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10820","employee_name":"Robert","employee_salary":"3500","employee_age":"50","profile_image":""}]
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:46 - ************Checking Reponse Time**********
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:48 - The Response Time is 1851
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:77 - ************Checking Response header**********
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:80 - The Response header is nginx/1.14.1
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:58 - ************Checking status Line**********
+2019-05-25 11:34:13 INFO  EmloyeeRestApi:61 - The Status Line is HTTP/1.1 200 OK
+2019-05-25 11:52:23 INFO  EmloyeeRestApi:22 - ***************Starting TC02 Post************
+2019-05-25 12:17:56 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:19:28 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:21:14 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:25:36 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:26:28 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:27:11 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:28:39 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:28:58 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:32:09 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:34:14 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:34:42 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 12:36:04 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:36:11 INFO  EmloyeeRestApi:45 - Post Body Message is {"name":"KoushickR","salary":"10417","age":"65640","id":"10910"}
+2019-05-25 12:37:11 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:37:18 INFO  EmloyeeRestApi:45 - Post Body Message is {"name":"KoushickP","salary":"10575","age":"62702","id":"10915"}
+2019-05-25 12:37:46 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:37:53 INFO  EmloyeeRestApi:45 - Post Body Message is {"name":"Koushickg","salary":"54331","age":"60680","id":"10918"}
+2019-05-25 12:40:04 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:40:14 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:41:11 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:41:18 INFO  EmloyeeRestApi:45 - Post Body Message is {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Koushickg' for key 'employee_name_unique'}}
+2019-05-25 12:42:34 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:42:42 INFO  EmloyeeRestApi:45 - Post Body Message is {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Koushickp' for key 'employee_name_unique'}}
+2019-05-25 12:44:32 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:44:40 INFO  EmloyeeRestApi:45 - Post Body Message is {"name":"Koushickf","salary":"78724","age":"78","id":"10941"}
+2019-05-25 12:52:40 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:52:48 INFO  EmloyeeRestApi:45 - Post Body Message is {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'KoushickP' for key 'employee_name_unique'}}
+2019-05-25 12:53:07 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:53:14 INFO  EmloyeeRestApi:45 - Post Body Message is {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'KoushickH' for key 'employee_name_unique'}}
+2019-05-25 12:53:36 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 12:53:44 INFO  EmloyeeRestApi:45 - Post Body Message is {"name":"KoushickL","salary":"43346","age":"45","id":"10958"}
+2019-05-25 13:06:06 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 13:06:15 INFO  EmloyeeRestApi:45 - Post Body Message is {"name":"KoushickQ","salary":"52079","age":"32","id":"10982"}
+2019-05-25 13:07:51 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:45 - Post Body Message is {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'KoushickL' for key 'employee_name_unique'}}
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:114 - ************Checking Response header content**********
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:117 - The Response header is gzip
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:73 - ************Checking Reponse Time**********
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:75 - The Response Time is 1404
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:94 - ************Checking Content Type**********
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:97 - The Content Type is text/html; charset=UTF-8
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:123 - ************Checking Response header Content Length**********
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:125 - The Response header is 140
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:63 - ************Checking status code**********
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:65 - The Status Code is 200
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:104 - ************Checking Response header**********
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:107 - The Response header is nginx/1.14.1
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:85 - ************Checking status Line**********
+2019-05-25 13:07:58 INFO  EmloyeeRestApi:88 - The Status Line is HTTP/1.1 200 OK
+2019-05-25 13:13:00 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 13:13:07 INFO  EmloyeeRestApi:45 - Post Body Message is {"name":"Koushickc","salary":"39468","age":"65","id":"10997"}
+2019-05-25 13:13:07 INFO  EmloyeeRestApi:73 - ************Checking Reponse Time**********
+2019-05-25 13:13:07 INFO  EmloyeeRestApi:75 - The Response Time is 1348
+2019-05-25 13:13:07 INFO  EmloyeeRestApi:63 - ************Checking status code**********
+2019-05-25 13:13:07 INFO  EmloyeeRestApi:65 - The Status Code is 200
+2019-05-25 13:13:07 INFO  EmloyeeRestApi:85 - ************Checking status Line**********
+2019-05-25 13:13:07 INFO  EmloyeeRestApi:88 - The Status Line is HTTP/1.1 200 OK
+2019-05-25 13:13:57 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:45 - Post Body Message is {"name":"KoushickS","salary":"46274","age":"75","id":"10999"}
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:115 - ************Checking Response header content**********
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:118 - The Response header is gzip
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:73 - ************Checking Reponse Time**********
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:75 - The Response Time is 1321
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:95 - ************Checking Content Type**********
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:98 - The Content Type is text/html; charset=UTF-8
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:124 - ************Checking Response header Content Length**********
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:126 - The Response header is null
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:63 - ************Checking status code**********
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:65 - The Status Code is 200
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:105 - ************Checking Response header**********
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:108 - The Response header is nginx/1.14.1
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:85 - ************Checking status Line**********
+2019-05-25 13:14:04 INFO  EmloyeeRestApi:88 - The Status Line is HTTP/1.1 200 OK
+2019-05-25 13:18:09 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:45 - Post Body Message is {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Koushickh' for key 'employee_name_unique'}}
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:117 - ************Checking Response header content**********
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:120 - The Response header is gzip
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:75 - ************Checking Reponse Time**********
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:77 - The Response Time is 1330
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:97 - ************Checking Content Type**********
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:100 - The Content Type is text/html; charset=UTF-8
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:126 - ************Checking Response header Content Length**********
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:128 - The Response header is 140
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:65 - ************Checking status code**********
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:67 - The Status Code is 200
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:107 - ************Checking Response header**********
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:110 - The Response header is nginx/1.14.1
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:87 - ************Checking status Line**********
+2019-05-25 13:18:16 INFO  EmloyeeRestApi:90 - The Status Line is HTTP/1.1 200 OK
+2019-05-25 13:19:02 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:45 - Post Body Message is {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'KoushickL' for key 'employee_name_unique'}}
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:115 - ************Checking Response header content**********
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:118 - The Response header is gzip
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:73 - ************Checking Reponse Time**********
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:75 - The Response Time is 1381
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:95 - ************Checking Content Type**********
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:98 - The Content Type is text/html; charset=UTF-8
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:124 - ************Checking Response header Content Length**********
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:126 - The Response header is 140
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:63 - ************Checking status code**********
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:65 - The Status Code is 200
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:105 - ************Checking Response header**********
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:108 - The Response header is nginx/1.14.1
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:85 - ************Checking status Line**********
+2019-05-25 13:19:09 INFO  EmloyeeRestApi:88 - The Status Line is HTTP/1.1 200 OK
+2019-05-25 13:21:53 INFO  EmloyeeRestApi:26 - ***************Starting TC02 Post************
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:45 - Post Body Message is {"name":"KoushickE","salary":"21244","age":"36","id":"11009"}
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:115 - ************Checking Response header content**********
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:118 - The Response header is gzip
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:73 - ************Checking Reponse Time**********
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:75 - The Response Time is 1347
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:95 - ************Checking Content Type**********
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:98 - The Content Type is text/html; charset=UTF-8
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:63 - ************Checking status code**********
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:65 - The Status Code is 200
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:105 - ************Checking Response header**********
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:108 - The Response header is nginx/1.14.1
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:85 - ************Checking status Line**********
+2019-05-25 13:22:00 INFO  EmloyeeRestApi:88 - The Status Line is HTTP/1.1 200 OK
+2019-05-25 13:27:32 INFO  EmloyeeRestApi:18 - ***************Starting TC01************
+2019-05-25 13:27:34 INFO  EmloyeeRestApi:31 - The Headers are Server=nginx/1.14.1
+Date=Sat, 25 May 2019 12:29:56 GMT
+Content-Type=text/html; charset=UTF-8
+Content-Length=97
+Connection=keep-alive
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma=no-cache
+Access-Control-Allow-Origin=*
+Access-Control-Expose-Headers=Content-Type, X-Requested-With, X-authentication, X-client
+Referrer-Policy=
+X-Server-Cache=true
+X-Proxy-Cache=MISS
+Set-Cookie=PHPSESSID=lsnfn02hed9h4ka4341ndp5fc5; path=/
+Vary=Accept-Encoding
+Content-Encoding=gzip
+2019-05-25 13:27:34 INFO  EmloyeeRestApi:32 - The Response Body is {"id":"11009","employee_name":"KoushickE","employee_salary":"21244","employee_age":"36","profile_image":""}
+2019-05-25 13:38:26 INFO  EmloyeeRestApi:20 - ***************Starting TC01************
+2019-05-25 13:39:39 INFO  EmloyeeRestApi:20 - ***************Starting TC01************
+2019-05-25 13:41:36 INFO  EmloyeeRestApi:22 - ***************Starting TC01************
+2019-05-25 13:41:39 INFO  EmloyeeRestApi:36 - The Deleted Employee is <html>
+    <head>
+        <title>Page Not Found</title>
+        <style>
+            body{
+                margin:0;
+                padding:30px;
+                font:12px/1.5 Helvetica,Arial,Verdana,sans-serif;
+            }
+            h1{
+                margin:0;
+                font-size:48px;
+                font-weight:normal;
+                line-height:48px;
+            }
+            strong{
+                display:inline-block;
+                width:65px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Page Not Found</h1>
+        <p>
+            The page you are looking for could not be found. Check the address bar
+            to ensure your URL is spelled correctly. If all else fails, you can
+            visit our home page at the link below.
+        </p>
+        <a href='http://dummy.restapiexample.com/'>Visit the Home Page</a>
+    </body>
+</html>
+2019-05-25 13:42:30 INFO  EmloyeeRestApi:22 - ***************Starting TC01************
+2019-05-25 13:42:32 INFO  EmloyeeRestApi:36 - The Deleted Employee is {"success":{"text":"successfully! deleted Records"}}
+2019-05-25 13:46:49 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 13:46:57 INFO  EmloyeeRestApi:44 - Post Body Message is <html>
+    <head>
+        <title>Method not allowed</title>
+        <style>
+            body{
+                margin:0;
+                padding:30px;
+                font:12px/1.5 Helvetica,Arial,Verdana,sans-serif;
+            }
+            h1{
+                margin:0;
+                font-size:48px;
+                font-weight:normal;
+                line-height:48px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Method not allowed</h1>
+        <p>Method not allowed. Must be one of: <strong>PUT</strong></p>
+    </body>
+</html>
+2019-05-25 13:47:22 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 13:47:29 INFO  EmloyeeRestApi:44 - Post Body Message is {"name":"KoushickP","salary":"76080","age":"47"}
+2019-05-25 13:48:24 INFO  EmloyeeRestApi:25 - ***************Starting TC02 Post************
+2019-05-25 13:48:31 INFO  EmloyeeRestApi:44 - Post Body Message is {"name":"KoushickB","salary":"95971","age":"62"}
+2019-05-26 06:34:51 INFO  EmloyeeRestApi:20 - 401
+2019-05-26 06:36:24 INFO  EmloyeeRestApi:21 - 200
+2019-05-26 06:37:36 INFO  EmloyeeRestApi:21 - 200
+2019-05-26 06:37:36 INFO  EmloyeeRestApi:27 - The Body is{
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2019-05-26 06:40:21 INFO  EmloyeeRestApi:22 - 200
+2019-05-26 06:40:21 INFO  EmloyeeRestApi:28 - The Body is{
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
